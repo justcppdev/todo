@@ -8,5 +8,5 @@ watch:
 - [x] [Илья Шишков, Фитнес для вашего кода: как держать его в форме](https://www.youtube.com/watch?v=9WvGvlTrCmE&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&index=8)
 - [x] [Михаил Матросов, Повседневный С++: алгоритмы и итераторы](https://www.youtube.com/watch?v=LuaNbkRPGRo&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&index=9)
 - [x] [Денис Кормалев, История одного бага](https://www.youtube.com/watch?v=_cRgChvEYoE&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&index=11)
-- [ ] [Роман Орлов, Догнать и перегнать boost::lexical_cast](https://www.youtube.com/watch?v=WCJcY-YmlnM&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&index=12)
+- [x] [Роман Орлов, Догнать и перегнать boost::lexical_cast](https://www.youtube.com/watch?v=WCJcY-YmlnM&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&index=12)
 - [ ] [Василий Сорокин, Простой REST сервер на Qt с рефлексией](https://www.youtube.com/watch?v=6kOG4fvVCwI&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&index=10)
