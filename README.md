@@ -11,6 +11,7 @@ watch:
 - [x] [Роман Орлов, Догнать и перегнать boost::lexical_cast](https://www.youtube.com/watch?v=WCJcY-YmlnM&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&index=12)
 - [x] [Антон Полухин, Как делать не надо: C++ велосипедостроение для профессионалов](https://www.youtube.com/watch?v=rJWSSWYL83U&index=14&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&t=4s)
 - [x] [Виктор Ястребов, Повышение качества разработки c использованием юнит-тестов](https://www.youtube.com/watch?v=0kDgcvyAIsU&index=15&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
-- [ ] [Дмитрий Вьюков, Fuzzing: The New Unit Testing](https://www.youtube.com/watch?v=FD30Qzd6ylk&index=16&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
+- [x] [Дмитрий Вьюков, Fuzzing: The New Unit Testing](https://www.youtube.com/watch?v=FD30Qzd6ylk&index=16&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
+- [ ] [Юрий Ефимочев, clang-tidy: путешествие внутрь C++ Abstract Syntax Tree](https://www.youtube.com/watch?v=WHgXn_ufY90&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&index=17)
 - [ ] [Василий Сорокин, Простой REST сервер на Qt с рефлексией](https://www.youtube.com/watch?v=6kOG4fvVCwI&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&index=10)
 
