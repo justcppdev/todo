@@ -15,5 +15,11 @@ watch:
 - [x] [Юрий Ефимочев, clang-tidy: путешествие внутрь C++ Abstract Syntax Tree](https://www.youtube.com/watch?v=WHgXn_ufY90&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&index=17)
 - [x] [Евгений Зуев: С++ в России: Стандарт языка и его реализация](https://www.youtube.com/watch?v=NVUZ-U2QAbc&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&index=18)
 - [x] [Александр Боргардт, Модели акторов в С++ миф или реальность](https://www.youtube.com/watch?v=1dd-BZ4lKxM&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&index=19)
+- [ ] [Евгений Охотников, Для чего мы делали собственный акторный фреймворк и что в итоге получили?](https://www.youtube.com/watch?v=9fWDTbXnWaw&index=20&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
+- [ ] [Антон Наумович, Гарантии качества для крупных С++ проектов](https://www.youtube.com/watch?v=Q3xtKUp6cAo&index=21&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
+- [ ] [Руслан Морозов, Внедрение практик безопасного кодирования](https://www.youtube.com/watch?v=a7r3A4pd5Ew&index=22&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
+- [ ] [Алексей Кутумов, C++ без исключений, часть 3](https://www.youtube.com/watch?v=Vzt6zddqxZo&index=23&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
+- [ ] [Максим Хижинский, Итераторы в lock-free структурах данных](https://www.youtube.com/watch?v=Z0EStxQjh-o&index=25&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
+- [ ] [Евгений Крутько, C++17: параллельная версия стандартных алгоритмов](https://www.youtube.com/watch?v=SoQAGI5Bjvs&index=26&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
 - [ ] [Василий Сорокин, Простой REST сервер на Qt с рефлексией](https://www.youtube.com/watch?v=6kOG4fvVCwI&list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz&index=10)
 
