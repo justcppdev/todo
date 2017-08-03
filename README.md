@@ -1,5 +1,3 @@
-# todo
-
 ## cpp
 
 - [x] Посмотреть доклады с конференции [C++ Russuia 2017](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
