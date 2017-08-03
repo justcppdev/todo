@@ -6,6 +6,10 @@
 - [ ] Подготовить примеры для курса [Параллельное программирование]()
   - [x] [Пример использования не атомарных переменных](https://github.com/justcppdeveloper/ll_ex01/)
   
+## python
+- [ ] Прочитать книгу [Изучем PYTHON]()
+- [ ] Прочитать книгу [Программирование на PYTHON]()
+  
 ## algorithms
 - [ ] Прочитать книгу [Алгоритмы. Справочник с примерами](https://justcppdeveloper.slack.com/files/justcppdeveloper/F6J2P6GG5/algoritmy_spravochnik_s_primerami_na_c_c__java_i_python.pdf)
 
