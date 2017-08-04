@@ -3,7 +3,7 @@
 - [x] Посмотреть доклады с конференции [C++ Russuia 2017](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
 - [ ] Прочитать книгу [Паралельное программирование на С++ в действии]()
 - [ ] Подготовить примеры для курса [Параллельное программирование]()
-  - [x] [Пример использования не атомарных переменных](https://github.com/justcppdeveloper/ll_ex01/)
+  - [x] [Пример использования не атомарных переменных](https://github.com/justcppdeveloper-cpp-examples-c02/ll_e01)
   
 ## python
 - [x] Прочитать книгу [Изучем PYTHON]()
