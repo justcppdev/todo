@@ -2,6 +2,7 @@
 
 - [x] Посмотреть доклады с конференции [C++ Russuia 2017](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
 - [ ] Прочитать книгу [Паралельное программирование на С++ в действии]()
+- [ ] Прочитать серию статей [lock-free алгоритмы](https://m.habrahabr.ru/users/khizmax/topics/)
 - [ ] Подготовить примеры для курса [Параллельное программирование]()
   - [x] [Пример использования не атомарных переменных](https://github.com/justcppdeveloper-cpp-examples-c02/ll_e01)
   - [x] [Пример использования ослабленного упорядочивания](https://github.com/justcppdeveloper-cpp-examples-c02/ll_e02)
