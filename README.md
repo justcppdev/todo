@@ -7,6 +7,7 @@
   - [x] [Пример использования не атомарных переменных](https://github.com/justcppdeveloper-cpp-examples-c02/ll_e01)
   - [x] [Пример использования ослабленного упорядочивания](https://github.com/justcppdeveloper-cpp-examples-c02/ll_e02)
   - [x] [Пример использования последовательно согласованного упорядочивания](https://github.com/justcppdeveloper-cpp-examples-c02/ll_e03)
+  - [x] [Пример использования барьеров](https://github.com/justcppdeveloper-cpp-examples-c02/ll_e05)
   
 ## python
 - [x] Прочитать книгу [Изучем PYTHON]()
