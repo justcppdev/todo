@@ -1,6 +1,7 @@
 ## cpp
 
 - [x] Посмотреть доклады с конференции [C++ Russuia 2017](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
+- [ ] Посмотреть видеолекции курса [Параллельные и распределённые вычисления](https://yandexdataschool.ru/edu-process/courses/parallel#item-1)
 - [ ] Прочитать книгу [Паралельное программирование на С++ в действии]()
 - [ ] Прочитать серию статей [lock-free алгоритмы](https://m.habrahabr.ru/users/khizmax/topics/)
 - [ ] Подготовить примеры для курса [Параллельное программирование](https://github.com/justcppdeveloper-cpp-examples-c02)
