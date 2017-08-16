@@ -21,5 +21,5 @@
 - [ ] Прочитать книгу [Машинное обучение](https://justcppdeveloper.slack.com/files/justcppdeveloper/F6HCJLG81/machinelearning.pdf)
 
 ## other
-- [ ] Посмотреть мастер-класс [Суть работы тимлида в команде разработки](https://www.youtube.com/watch?v=txIugeFSiYw)
+- [x] Посмотреть мастер-класс [Суть работы тимлида в команде разработки](https://www.youtube.com/watch?v=txIugeFSiYw)
 - [ ] Посмотреть видеозапись курса по [Проектированию высоконагруженных систем](https://www.youtube.com/playlist?list=PLrCZzMib1e9qozAkJm0-IyBO2pkUdBLlM)
