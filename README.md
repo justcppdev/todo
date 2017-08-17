@@ -6,7 +6,7 @@
 - [ ] Прочитать серию статей [Lock-free структуры данных](https://m.habrahabr.ru/users/khizmax/topics/)
   - [x] [Основы: Атомарность и атомарные примитивы](https://habrahabr.ru/post/195948)
   - [x] [Основы: откуда пошли быть барьеры памяти](https://habrahabr.ru/post/196548)
-  - [ ] [Основы: Модель памяти](https://habrahabr.ru/post/197520)
+  - [x] [Основы: Модель памяти](https://habrahabr.ru/post/197520)
 - [ ] Подготовить примеры для курса [Параллельное программирование](https://github.com/justcppdeveloper-cpp-examples-c02)
   - [x] [Пример использования не атомарных переменных](https://github.com/justcppdeveloper-cpp-examples-c02/ll_e01)
   - [x] [Пример использования ослабленного упорядочивания](https://github.com/justcppdeveloper-cpp-examples-c02/ll_e02)
