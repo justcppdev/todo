@@ -17,7 +17,7 @@
   - [x] [Пример использования барьеров](https://github.com/justcppdeveloper-cpp-examples-c02/ll_e05)
 
 ### modern
-- [ ] Посмотреть доклад на тему [Встреча в Торонто: Get ready to ratify and celebrate C++17](https://events.yandex.ru/lib/talks/4801/)
+- [x] Посмотреть доклад на тему [Встреча в Торонто: Get ready to ratify and celebrate C++17](https://events.yandex.ru/lib/talks/4801/)
   
 ## python
 - [x] Прочитать книгу [Изучем PYTHON]()
