@@ -18,6 +18,7 @@
 
 ### modern
 - [x] Посмотреть доклад на тему [Встреча в Торонто: Get ready to ratify and celebrate C++17](https://events.yandex.ru/lib/talks/4801/)
+- [x] Посмотреть доклад на тему [boost::stacktrace](https://events.yandex.ru/lib/talks/4186/)
   
 ## python
 - [x] Прочитать книгу [Изучем PYTHON]()
