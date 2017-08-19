@@ -2,7 +2,7 @@
 
 - [x] Посмотреть доклады с конференции [C++ Russuia 2017](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
 - [x] Посмотреть доклад на тему [Почему C++ atomics именно такие](https://events.yandex.ru/lib/talks/3550/)
-- [ ] Посмотреть доклад на тему [Многопоточность в С++](https://events.yandex.ru/lib/talks/4185/)
+- [x] Посмотреть доклад на тему [Многопоточность в С++](https://events.yandex.ru/lib/talks/4185/)
 - [ ] Посмотреть доклад на тему [Модель памяти C++](https://www.youtube.com/watch?v=SIZmLPtcZiE)
 - [ ] Посмотреть видеолекции курса [Параллельные и распределённые вычисления](https://yandexdataschool.ru/edu-process/courses/parallel#item-1)
 - [ ] Прочитать книгу [Паралельное программирование на С++ в действии]()
