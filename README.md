@@ -1,9 +1,10 @@
 ## cpp
 
 - [x] Посмотреть доклады с конференции [C++ Russuia 2017](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
+- [x] Посмотреть доклад на тему [Почему C++ atomics именно такие](https://events.yandex.ru/lib/talks/3550/)
 - [ ] Посмотреть видеолекции курса [Параллельные и распределённые вычисления](https://yandexdataschool.ru/edu-process/courses/parallel#item-1)
 - [ ] Прочитать книгу [Паралельное программирование на С++ в действии]()
-- [ ] Прочитать серию статей [Lock-free структуры данных](https://m.habrahabr.ru/users/khizmax/topics/)
+- [ ] Прочитать серию статей [Lock-free структуры данных](https://m.habrahabr.ru/users/khizmax/topics)
   - [x] [Основы: Атомарность и атомарные примитивы](https://habrahabr.ru/post/195948)
   - [x] [Основы: откуда пошли быть барьеры памяти](https://habrahabr.ru/post/196548)
   - [x] [Основы: Модель памяти](https://habrahabr.ru/post/197520)
