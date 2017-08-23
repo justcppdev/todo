@@ -1,5 +1,8 @@
 ## cpp
 
+- [ ] Прочитать статью на тему [rvalue ссылки и изменения, которые они привносят в С++](http://scrutator.me/post/2011/08/02/rvalue-refs.aspx)
+- [ ] Добавить полезные статьи из ресурса [http://scrutator.me](http://scrutator.me/archive.aspx)
+
 ### concurrency
 - [ ] Подготовить примеры для курса [Параллельное программирование](https://github.com/justcppdeveloper-cpp-examples-c02)
   - [x] [Пример использования не атомарных переменных](https://github.com/justcppdeveloper-cpp-examples-c02/ll_e01)
