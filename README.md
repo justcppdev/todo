@@ -1,7 +1,21 @@
 ## cpp
 
 - [ ] Прочитать статью на тему [rvalue ссылки и изменения, которые они привносят в С++](http://scrutator.me/post/2011/08/02/rvalue-refs.aspx)
-- [ ] Добавить полезные статьи из ресурса [http://scrutator.me](http://scrutator.me/archive.aspx)
+- [ ] Прочитать статью на тему [Вся правда об указателях. Часть 1: Вводная](http://scrutator.me/post/2015/11/26/pointers_demystified_p1.aspx)
+- [ ] Прочитать статью на тему [Вся правда об указателях. Часть 2: Памятная](http://scrutator.me/post/2015/12/30/pointers_demystified_p2.aspx)
+- [ ] Прочитать статью на тему [Вся правда об указателях. Часть 3: Завершающая](http://scrutator.me/post/2016/03/30/pointers_demystified_p3.aspx)
+- [ ] Прочитать статью на тему [Работа со строками в C++. Часть 1: Основы](http://scrutator.me/post/2014/09/02/cpp_strings_basics.aspx)
+- [ ] Прочитать статью на тему [Работа со строками в С++. Часть 2: Форматирование](http://scrutator.me/post/2014/10/01/cpp_strings_formatting.aspx)
+- [ ] Прочитать статью на тему [Размещение объектов. Часть 1: Основы](http://scrutator.me/post/2014/01/29/objects_memory_layout_p1.aspx)
+- [ ] Прочитать статью на тему [Размещение объектов. Часть 2: Виртуальность](http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx)
+- [ ] Прочитать статью на тему [Умные указатели](http://scrutator.me/post/2012/01/18/smart-pointers.aspx)
+- [ ] Прочитать статью на тему [Конструирование в C++11. Часть 1: Стирая границы](http://scrutator.me/post/2012/11/16/new-ctors-p1.aspx)
+- [ ] Прочитать статью на тему [Конструирование в C++11. Часть 2: Работа над ошибками](http://scrutator.me/post/2012/12/18/new-ctors-p2.aspx)
+- [ ] Прочитать статью на тему [Нововведения в шаблонах](http://scrutator.me/post/2013/01/18/template-innovations.aspx)
+- [ ] Прочитать статью на тему [Константные выражения](http://scrutator.me/post/2013/11/19/constant_expressions.aspx)
+- [ ] Прочитать статью на тему [Такие разные литералы](http://scrutator.me/post/2013/12/29/various_literals.aspx)
+- [ ] Прочитать статью на тему [lamda, auto, decltype–”синтаксический сахар“ который сделает вашу жизнь проще](http://scrutator.me/post/2011/10/14/lamda-auto-decltype.aspx)
+- [ ] Прочитать статью на тему [lambda, auto, decltype – Дубль два или auto наступает](http://scrutator.me/post/2014/07/08/lambda_auto_decltype_cpp14.aspx)
 
 ### concurrency
 - [ ] Подготовить примеры для курса [Параллельное программирование](https://github.com/justcppdeveloper-cpp-examples-c02)
