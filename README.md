@@ -3,7 +3,7 @@
 - [ ] Прочитать статью на тему [rvalue ссылки и изменения, которые они привносят в С++](http://scrutator.me/post/2011/08/02/rvalue-refs.aspx)
 - [x] Прочитать статью на тему [Вся правда об указателях. Часть 1: Вводная](http://scrutator.me/post/2015/11/26/pointers_demystified_p1.aspx)
 - [x] Прочитать статью на тему [Вся правда об указателях. Часть 2: Памятная](http://scrutator.me/post/2015/12/30/pointers_demystified_p2.aspx)
-- [ ] Прочитать статью на тему [Вся правда об указателях. Часть 3: Завершающая](http://scrutator.me/post/2016/03/30/pointers_demystified_p3.aspx)
+- [x] Прочитать статью на тему [Вся правда об указателях. Часть 3: Завершающая](http://scrutator.me/post/2016/03/30/pointers_demystified_p3.aspx)
 - [ ] Прочитать статью на тему [Работа со строками в C++. Часть 1: Основы](http://scrutator.me/post/2014/09/02/cpp_strings_basics.aspx)
 - [ ] Прочитать статью на тему [Работа со строками в С++. Часть 2: Форматирование](http://scrutator.me/post/2014/10/01/cpp_strings_formatting.aspx)
 - [ ] Прочитать статью на тему [Размещение объектов. Часть 1: Основы](http://scrutator.me/post/2014/01/29/objects_memory_layout_p1.aspx)
