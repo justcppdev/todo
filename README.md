@@ -8,7 +8,7 @@
 - [ ] Прочитать статью на тему [Работа со строками в С++. Часть 2: Форматирование](http://scrutator.me/post/2014/10/01/cpp_strings_formatting.aspx)
 - [x] Прочитать статью на тему [Размещение объектов. Часть 1: Основы](http://scrutator.me/post/2014/01/29/objects_memory_layout_p1.aspx)
 - [x] Прочитать статью на тему [Размещение объектов. Часть 2: Виртуальность](http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx)
-- [ ] Прочитать статью на тему [Умные указатели](http://scrutator.me/post/2012/01/18/smart-pointers.aspx)
+- [x] Прочитать статью на тему [Умные указатели](http://scrutator.me/post/2012/01/18/smart-pointers.aspx)
 - [ ] Прочитать статью на тему [Конструирование в C++11. Часть 1: Стирая границы](http://scrutator.me/post/2012/11/16/new-ctors-p1.aspx)
 - [ ] Прочитать статью на тему [Конструирование в C++11. Часть 2: Работа над ошибками](http://scrutator.me/post/2012/12/18/new-ctors-p2.aspx)
 - [ ] Прочитать статью на тему [Нововведения в шаблонах](http://scrutator.me/post/2013/01/18/template-innovations.aspx)
