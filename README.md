@@ -17,7 +17,7 @@
 - [x] Прочитать статью на тему [lamda, auto, decltype–”синтаксический сахар“ который сделает вашу жизнь проще](http://scrutator.me/post/2011/10/14/lamda-auto-decltype.aspx)
 - [x] Прочитать статью на тему [lambda, auto, decltype – Дубль два или auto наступает](http://scrutator.me/post/2014/07/08/lambda_auto_decltype_cpp14.aspx)
 - [x] Посмотреть доклад на тему [C++: препроцессор, компилятор, компоновщик](https://events.yandex.ru/lib/talks/1936/)
-- [ ] Посмотреть доклад на тему [Много копий было сломано: по значению или по ссылке?](https://events.yandex.ru/lib/talks/4799/)
+- [x] Посмотреть доклад на тему [Много копий было сломано: по значению или по ссылке?](https://events.yandex.ru/lib/talks/4799/)
 - [x] Посмотреть доклад на тему [Генерация правил сборки в CMake](https://events.yandex.ru/lib/talks/3548/)
 - [ ] Посмотреть доклад на тему [Асинхронное программирование и сопрограммы](https://events.yandex.ru/lib/talks/1761/)
 
