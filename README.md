@@ -11,7 +11,7 @@
 - [x] Прочитать статью на тему [Умные указатели](http://scrutator.me/post/2012/01/18/smart-pointers.aspx)
 - [x] Прочитать статью на тему [Конструирование в C++11. Часть 1: Стирая границы](http://scrutator.me/post/2012/11/16/new-ctors-p1.aspx)
 - [x] Прочитать статью на тему [Конструирование в C++11. Часть 2: Работа над ошибками](http://scrutator.me/post/2012/12/18/new-ctors-p2.aspx)
-- [ ] Прочитать статью на тему [Нововведения в шаблонах](http://scrutator.me/post/2013/01/18/template-innovations.aspx)
+- [x] Прочитать статью на тему [Нововведения в шаблонах](http://scrutator.me/post/2013/01/18/template-innovations.aspx)
 - [x] Прочитать статью на тему [Константные выражения](http://scrutator.me/post/2013/11/19/constant_expressions.aspx)
 - [ ] Прочитать статью на тему [Такие разные литералы](http://scrutator.me/post/2013/12/29/various_literals.aspx)
 - [ ] Прочитать статью на тему [lamda, auto, decltype–”синтаксический сахар“ который сделает вашу жизнь проще](http://scrutator.me/post/2011/10/14/lamda-auto-decltype.aspx)
