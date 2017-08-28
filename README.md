@@ -56,6 +56,7 @@
 ## python
 - [x] Прочитать книгу [Изучем PYTHON]()
 - [ ] Прочитать книгу [Программирование на PYTHON]()
+- [x] Посмотреть доклад на тему [Десктопные GUI-тесты на Python](https://www.youtube.com/watch?v=6rrgmjVFZ_E)
   
 ## algorithms
 - [ ] Прочитать книгу [Алгоритмы. Справочник с примерами](https://justcppdeveloper.slack.com/files/justcppdeveloper/F6J2P6GG5/algoritmy_spravochnik_s_primerami_na_c_c__java_i_python.pdf)
