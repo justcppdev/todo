@@ -5,7 +5,7 @@
 - [x] Прочитать статью на тему [Вся правда об указателях. Часть 2: Памятная](http://scrutator.me/post/2015/12/30/pointers_demystified_p2.aspx)
 - [x] Прочитать статью на тему [Вся правда об указателях. Часть 3: Завершающая](http://scrutator.me/post/2016/03/30/pointers_demystified_p3.aspx)
 - [x] Прочитать статью на тему [Работа со строками в C++. Часть 1: Основы](http://scrutator.me/post/2014/09/02/cpp_strings_basics.aspx)
-- [ ] Прочитать статью на тему [Работа со строками в С++. Часть 2: Форматирование](http://scrutator.me/post/2014/10/01/cpp_strings_formatting.aspx)
+- [x] Прочитать статью на тему [Работа со строками в С++. Часть 2: Форматирование](http://scrutator.me/post/2014/10/01/cpp_strings_formatting.aspx)
 - [x] Прочитать статью на тему [Размещение объектов. Часть 1: Основы](http://scrutator.me/post/2014/01/29/objects_memory_layout_p1.aspx)
 - [x] Прочитать статью на тему [Размещение объектов. Часть 2: Виртуальность](http://scrutator.me/post/2014/06/02/objects_memory_layout_p2.aspx)
 - [x] Прочитать статью на тему [Умные указатели](http://scrutator.me/post/2012/01/18/smart-pointers.aspx)
