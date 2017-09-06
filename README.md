@@ -51,7 +51,7 @@
 - [x] Посмотреть доклады с конференции [C++ Russuia 2017](https://www.youtube.com/playlist?list=PLZN9ZGiWZoZojYik8EdApUgPwa0YM3Yuz)
 - [x] Посмотреть доклад на тему [Встреча в Торонто: Get ready to ratify and celebrate C++17](https://events.yandex.ru/lib/talks/4801/)
 - [x] Посмотреть доклад на тему [boost::stacktrace](https://events.yandex.ru/lib/talks/4186/)
-- [ ] Прочитать статью на тему [SFINAE. Как много в этом слове](http://scrutator.me/post/2016/12/12/sfinae.aspx)
+- [x] Прочитать статью на тему [SFINAE. Как много в этом слове](http://scrutator.me/post/2016/12/12/sfinae.aspx)
 - [ ] Прочитать статью на тему [А есть ли функция?](http://scrutator.me/post/2017/04/10/has_function_metaprogramming.aspx)
 - [ ] Прочитать статью на тему [Языковые новшества C++17. Часть 1. Свёртка и выведение](http://scrutator.me/post/2017/08/11/cpp17_lang_features_p1.aspx)
   
