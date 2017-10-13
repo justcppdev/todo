@@ -69,3 +69,6 @@
 ## other
 - [x] Посмотреть мастер-класс [Суть работы тимлида в команде разработки](https://www.youtube.com/watch?v=txIugeFSiYw)
 - [ ] Посмотреть видеозапись курса по [Проектированию высоконагруженных систем](https://www.youtube.com/playlist?list=PLrCZzMib1e9qozAkJm0-IyBO2pkUdBLlM)
+
+## tools
+- [ ] [vim - викиучебник](https://ru.wikibooks.org/wiki/Vim)
