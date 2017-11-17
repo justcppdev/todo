@@ -72,3 +72,4 @@
 
 ## tools
 - [ ] [vim - викиучебник](https://ru.wikibooks.org/wiki/Vim)
+- [ ] [vim - подкасты](http://vimcasts.org/episodes/archive/)
