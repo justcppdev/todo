@@ -38,6 +38,7 @@
 - [x] Посмотреть доклад на тему [Многопоточность в С++](https://events.yandex.ru/lib/talks/4185/)
 - [x] Посмотреть доклад на тему [Модель памяти C++](https://www.youtube.com/watch?v=SIZmLPtcZiE)
 - [ ] Посмотреть видеолекции курса [Параллельные и распределённые вычисления](https://yandexdataschool.ru/edu-process/courses/parallel#item-1)
+- [ ] Прочитать статью на тему [Memory reordering](https://habrahabr.ru/post/209128/)
 - [x] Прочитать статью на тему [Взаимоотношения с памятью. Монопроцессор](http://scrutator.me/post/2014/11/01/cpu_memory_inter_uniprocessor.aspx)
 - [x] Прочитать статью на тему [Взаимоотношения с памятью. Мультипроцессор](http://scrutator.me/post/2015/04/05/cpu_memory_inter_multiprocessor.aspx)
 - [x] Прочитать статью на тему [Барьеры памяти](http://scrutator.me/post/2015/05/16/memory_barriers.aspx)
