@@ -1,3 +1,5 @@
+## objective-C
+- [ ] Прочитать документацию [ARC](https://clang.llvm.org/docs/AutomaticReferenceCounting.html)
 ## cpp
 - [ ] Прочитать серию статей на тему [C++ Language](http://en.cppreference.com/w/cpp/language)
 - [x] Прочитать книгу [Програмирование. Принципы и практика с использованием C++]()
