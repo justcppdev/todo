@@ -1,6 +1,7 @@
 ## objective-C
-- [ ] Прочитать документацию [ARC](https://clang.llvm.org/docs/AutomaticReferenceCounting.html)
+- [x] Прочитать документацию [ARC](https://clang.llvm.org/docs/AutomaticReferenceCounting.html)
 ## cpp
+- [ ] Прочитать статью на тему [constexpr if](https://habrahabr.ru/post/351970)
 - [ ] Прочитать серию статей на тему [C++ Language](http://en.cppreference.com/w/cpp/language)
 - [x] Прочитать книгу [Програмирование. Принципы и практика с использованием C++]()
 - [x] Прочитать статью на тему [Что нужно знать про арифметику с плавающей запятой](https://habrahabr.ru/post/112953)
